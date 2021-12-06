@@ -386,7 +386,7 @@
   background-color: #fff;
 }
 .news__img {
-  max-width: 100%;
+  width: 100%;
 }
 .news__title {
   font-family: Segoe UI, SegoeUI, "Helvetica Neue", Helvetica, Arial, sans-serif;
